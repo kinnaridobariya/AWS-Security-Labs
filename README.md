@@ -62,6 +62,8 @@ This repository contains lab exercises focused on various AWS services. Each lab
 - [AWS  Introduction to Amazon Simple Queue.pdf](https://github.com/user-attachments/files/17371141/AWS.Introduction.to.Amazon.Simple.Queue.pdf)
 
 ---
+### Case Study on diffrent Amazon services
+- [Case Study.pdf](https://github.com/user-attachments/files/17371900/Case.Study.pdf)
 
 
 ## Conclusion
